@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myAngular2 Is My Project';
+  changes done by malli
 }
